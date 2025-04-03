@@ -1,4 +1,4 @@
-☕︎ Organização e Estruturas de Dados
+# ☕︎ Organização e Estruturas de Dados
 
 Repositório contendo exercícios e projetos da disciplina **Organização e Estruturas de Dados** do segundo ano de **Ciência da Computação** na UNESPAR.
 
