@@ -6,8 +6,9 @@ Repositório contendo exercícios e projetos da disciplina **Organização e Est
 
 Este repositório reúne implementações de conceitos fundamentais da **Organização e Estruturas de Dados**, abordando tópicos como:
 
-- *Relembrando Conceitos de C;*
+- *Relembrando Conceitos de C*
 - *Algoritmos de Ordenação*
+- *Ponteiros*
 
 ## ☕︎ Objetivo 
 
