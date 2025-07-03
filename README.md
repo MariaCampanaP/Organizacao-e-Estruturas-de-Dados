@@ -16,7 +16,7 @@ Os códigos servem como material de estudo e prática para reforçar os conceito
 
 ## ☕︎ Tecnologias Utilizadas
 
-- Code::Blocks;
+- Code::Blocks
 
 ## ☕︎ Como Usar 
 
