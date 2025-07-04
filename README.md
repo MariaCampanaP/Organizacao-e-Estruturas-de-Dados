@@ -10,6 +10,7 @@ Este repositório reúne implementações de conceitos fundamentais da **Organiz
 - *Algoritmos de Ordenação*
 - *Ponteiros*
 - *Lista Dinâmica Sem Sentinela*
+- *Lista Dinânica Circular*
 
 ## ☕︎ Objetivo 
 
