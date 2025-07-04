@@ -9,6 +9,7 @@ Este repositório reúne implementações de conceitos fundamentais da **Organiz
 - *Relembrando Conceitos de C*
 - *Algoritmos de Ordenação*
 - *Ponteiros*
+- *Lista Dinâmica Sem Sentinela*
 
 ## ☕︎ Objetivo 
 
