@@ -11,6 +11,8 @@ Este repositório reúne implementações de conceitos fundamentais da **Organiz
 - *Ponteiros*
 - *Lista Dinâmica Sem Sentinela*
 - *Lista Dinânica Circular*
+- *Lista Duplamente Encadeada*
+- *Fila*
 
 ## ☕︎ Objetivo 
 
