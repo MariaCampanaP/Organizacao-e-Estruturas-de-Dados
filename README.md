@@ -15,6 +15,7 @@ Este repositório reúne implementações de conceitos fundamentais da **Organiz
 - *Lista Dinânica Circular*
 - *Lista Duplamente Encadeada*
 - *Fila*
+- *Pilha*
 
 ## ☕︎ Objetivo 
 
