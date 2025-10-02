@@ -16,6 +16,7 @@ Este repositório reúne implementações de conceitos fundamentais da **Organiz
 - *Lista Duplamente Encadeada*
 - *Fila*
 - *Pilha*
+- *Árvore*
 
 ## ☕︎ Objetivo 
 
